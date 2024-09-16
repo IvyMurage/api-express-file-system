@@ -1,0 +1,5 @@
+[
+  { "id": 2, "model": "Ford Mustang", "year": 2021 },
+  { "id": 3, "model": "BMW X 2020", "year": 2022 },
+  { "id": 2, "model": "G-WAGON X 2011", "year": 2000 }
+]
